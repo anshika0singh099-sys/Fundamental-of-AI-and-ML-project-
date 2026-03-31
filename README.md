@@ -10,15 +10,6 @@ In daily life, we receive many messages. Some of them are normal (safe), while o
 So, I created this project to **automatically detect whether a message is safe or scam** using a machine learning model.
 
 
-# Steps followed in this project:
-
-Load the dataset from a CSV file
-Clean the text (remove punctuation, numbers, etc.)
-Convert text into numbers using TF-IDF
-Train the model using Naive Bayes algorithm
-Test the model and check accuracy
-
-
 ##  How It Works
 
 The system learns from a dataset of messages that are already labeled as:
@@ -87,7 +78,7 @@ Enter message: Let's meet tomorrow
 Output: ✅ This seems safe.
 
 
-## 🔹 Technologies And libraries used 
+## Technologies And libraries used 
 
 * Python
 * Pandas
