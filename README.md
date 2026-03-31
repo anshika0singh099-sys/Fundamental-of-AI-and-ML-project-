@@ -1,5 +1,5 @@
 # Fundamental-of-AI-and-ML-project-
-## Scam Message Detector (Machine Learning Project)
+## Scam Message Detector 
 
 ##  About the Project
 
@@ -72,23 +72,20 @@ pip install pandas scikit-learn
 
 
 3. Run the Python file:
-
-```
 python src/main.py
-```
+
 
 4. Enter any message and check result
    Type `exit` to stop the program
 
 ##  Example
 
-```
 Enter message: You won a free prize click now
 Output: ⚠️ This looks like a SCAM message!
 
 Enter message: Let's meet tomorrow
 Output: ✅ This seems safe.
-```
+
 
 ## 🔹 Technologies And libraries used 
 
@@ -116,7 +113,7 @@ Output: ✅ This seems safe.
 * Support multiple languages
   
 
-## 🔹 Conclusion
+##  Conclusion
 
 This project shows how machine learning can be used to detect scam messages in real life. By using simple techniques like text processing and Naive Bayes, the system can identify whether a message is safe or not. It helped me understand basic AI concepts and how they can be applied to solve real-world problems.
 
